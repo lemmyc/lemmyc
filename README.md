@@ -33,8 +33,8 @@ Here are some technologies I have experience with:
   - Google Cloud Platform (GCP)
 
 ## 🔭 Current Projects
-- Developing an AI system for image recognition and classification in industrial environments.
-- Building a comprehensive web application using React, Node.js, and MySQL for project management.
+- Researching Convolutional Neural Networks (CNN) for real-world applications.
+- Developing Q&A applications using Retrieval-Augmented Generation (RAG) techniques for enterprise environments.
 
 ## 🌱 Currently Learning
 - Exploring advanced Machine Learning techniques and their practical applications.
