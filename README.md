@@ -1,7 +1,7 @@
 # 👋 Welcome to LemmyC's GitHub Page
 
 ## 📝 Introduction
-Hello! I am Dang Le (lemmyc), a passionate developer currently interning at [Techbase Vietnam](https://www.techbasevn.com/). I am a Fresher Full Stack Web Developer and AI/ML Engineer, with a strong interest in researching and deploying AI systems into real-world applications.
+Hello! I am Dang Le (a.k.a lemmyc), a passionate developer currently working at [Techbase Vietnam](https://www.techbasevn.com/). I am a Fresher Full Stack Web Developer and AI/ML Engineer, with a strong interest in researching and deploying AI systems into real-world applications.
 
 ## 💻 Tech Stack
 Here are some technologies I have experience with:
